@@ -10,6 +10,11 @@ Mon script s'appelle simple_server_tcp.py
 ## Et voici dans mon terminal le processus socket qui écoute et récupère ma saisi avec le protocole TCP
 ![image](https://github.com/user-attachments/assets/2eccf585-e04f-4cc1-8f3d-0f11ff0dd316)
 
+## Mon script s'appelle simple_client_udp.py
+![image](https://github.com/user-attachments/assets/faf05941-526a-4f38-8c83-fe22faceff47)
 
+## et voici ce qui se passe lorsque j'execute le script client puis server udp
+![image](https://github.com/user-attachments/assets/98ac587a-2420-45fc-aaf7-1f7a191a869f)
 
+ 
 
