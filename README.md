@@ -10,4 +10,6 @@ Pour run mon socket je tape la commande suivante
 Et voici dans mon terminal le processus socket qui écoute
 ![image](https://github.com/user-attachments/assets/b90dbdfc-4702-4e3d-bd6c-19fdf04a03d4)
 
+Après avoir éxécuter la commande curl (curl.exe -X GET http://localhost:9998 )mon socket renvoie l'info suivante 
+![image](https://github.com/user-attachments/assets/46735c17-678c-4adf-b079-d55b40705877)
 
