@@ -1,6 +1,6 @@
 import socket
 
-IP = '0.0.0.0'
+IP = '127.0.0.1'
 PORT = 9998
 
 #define a send_message function that takes a message argument
