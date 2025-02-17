@@ -7,9 +7,9 @@ Mon script s'appelle simple_server_tcp.py
 ## Pour run mon socket je tape la commande suivante
 ![image](https://github.com/user-attachments/assets/e2105939-f8dd-4b21-a0fe-947c69539823)
 
-## Et voici dans mon terminal le processus socket qui écoute
-![image](https://github.com/user-attachments/assets/b90dbdfc-4702-4e3d-bd6c-19fdf04a03d4)
+## Et voici dans mon terminal le processus socket qui écoute et récupère ma saisi avec le protocole TCP
+![image](https://github.com/user-attachments/assets/2eccf585-e04f-4cc1-8f3d-0f11ff0dd316)
 
-## Après avoir éxécuter la commande curl (curl.exe -X GET http://localhost:9998 )mon socket renvoie l'info suivante 
-![image](https://github.com/user-attachments/assets/46735c17-678c-4adf-b079-d55b40705877)
+
+
 
