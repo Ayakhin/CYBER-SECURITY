@@ -35,3 +35,6 @@ Voici l'interface web http://localhost:8000/
 
 ![image](https://github.com/user-attachments/assets/a5a1f489-aa28-4c20-b235-72c33b19668a)
 
+![image](https://github.com/user-attachments/assets/24a06e1e-1e85-4706-914c-fc0cac5774aa)
+
+
