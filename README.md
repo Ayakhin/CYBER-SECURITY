@@ -37,4 +37,29 @@ Voici l'interface web http://localhost:8000/
 
 ![image](https://github.com/user-attachments/assets/24a06e1e-1e85-4706-914c-fc0cac5774aa)
 
+![image](https://github.com/user-attachments/assets/ce4da849-0473-46fc-afe6-6a0bb8e232db)
+
+![image](https://github.com/user-attachments/assets/ad22ed75-6fa9-4733-8e94-01c8ce4aa813)
+
+![image](https://github.com/user-attachments/assets/5be1e2f2-f722-486b-a4c0-9cc81fbac552)
+
+![image](https://github.com/user-attachments/assets/1d30e4c8-82ad-43fc-8ed5-b37e82ad3bfe)
+
+![image](https://github.com/user-attachments/assets/d5fb4826-1349-4ec2-b9ca-379b2676334b)
+
+![image](https://github.com/user-attachments/assets/a5352c34-e71f-4920-9ea6-0e5c4a908712)
+
+![image](https://github.com/user-attachments/assets/3b0a2a0f-0341-4e08-bb66-f950f23d1809)
+
+![image](https://github.com/user-attachments/assets/3643911a-931e-4233-b56e-b065c0cd0bde)
+
+
+
+
+
+
+
+
+
+
 
