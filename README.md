@@ -53,6 +53,7 @@ Voici l'interface web http://localhost:8000/
 
 ![image](https://github.com/user-attachments/assets/3643911a-931e-4233-b56e-b065c0cd0bde)
 
+![Uploading image.png…]()
 
 
 
